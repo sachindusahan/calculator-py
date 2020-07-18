@@ -6,7 +6,7 @@ _**apt-get install git -y**_
 
 _**apt-get install python -y**_
 
-_**git clone https://github.com/sachindusahan/calculator-py.git_**_
+_**git clone https://github.com/sachindusahan/calculator-py.git**_
 
 _**cd calculator-py**_
 

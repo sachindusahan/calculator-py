@@ -1,17 +1,17 @@
-###_calculator-py 📟_
+_**calculator-py 📟**_
 
-###_go to your linux terminal and clone git link_
+_**go to your linux terminal and clone git link**_
 
-###_apt-get install git -y_
+_**apt-get install git -y**_
 
-###apt-get install python -y_
+_**apt-get install python -y**_
 
-###_git clone https://github.com/sachindusahan/calculator-py.git_
+_**git clone https://github.com/sachindusahan/calculator-py.git_**_
 
-###_cd calculator-py_
+_**cd calculator-py**_
 
 
-###_After Run.√_
+_**After Run.√**_
 
-###_python calculator.py_
+_**python calculator.py**_
 

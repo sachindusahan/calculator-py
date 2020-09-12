@@ -11,7 +11,5 @@ _**git clone https://github.com/sachindusahan/calculator-py.git**_
 _**cd calculator-py**_
 
 
-_**After Run.√**_
-
 _**python calculator.py**_
 

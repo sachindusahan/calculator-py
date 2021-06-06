@@ -1,6 +1,6 @@
 from os import system
 
-i = 1
+i = 1 
 while i < 10:
 	calculator = input('Open Calculator > open  Exit > exit :')
 	if calculator == 'open':

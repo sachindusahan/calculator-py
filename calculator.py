@@ -1,25 +1,15 @@
-def control(num1, operator, num2):
-    if operator == "+":
-        result = num1 + num2
-        print('>> ' + str(result))
-    elif operator == "*":
-        result = num1 * num2
-        print('>> ' + str(result))
-    elif operator == "-":
-        result = num1 - num2
-        print('>> ' + str(result))
-    elif operator == "/":
-        result = num1 / num2
-        print('>> ' + str(result))
-    else:
-        print("Invalid operator")
-
-number1 = int(input('First number: '))
-op = input("math operator: ")
-number2 = int(input("Second number: "))
-
-control(number1, op, number2)
+def control(num1, op, num2):
+    if op == '+':
+        return num1 + num2
+    elif op == '-':
+        return num1 - num2
 
 
-def some():
-    print("hello some ")
+try:
+    number1 = int(input("Number1>"))
+    operator = input("Operator>")
+    number2 = int(input("Number2>"))
+    print(control(number1, operator, number2))
+except ValueError:
+    print("Value Error !")
+
